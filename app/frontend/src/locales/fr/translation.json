@@ -1,6 +1,6 @@
 {
-    "pageTitle": "Azure OpenAI + AI Search",
-    "headerTitle": "Azure OpenAI + AI Search",
+    "pageTitle": "Biblyon",
+    "headerTitle": "Biblyon",
     "chat": "Chat",
     "qa": "Posez une question",
     "login": "Connexion",
@@ -37,10 +37,10 @@
     "chatEmptyStateTitle": "Discutez avec vos données",
     "chatEmptyStateSubtitle": "Demandez n'importe quoi ou essayez un exemple",
     "defaultExamples": {
-        "1": "Qu'est-ce qui est inclus dans mon plan Northwind Health Plus qui n'est pas dans le standard?",
-        "2": "Qu'arrive-t-il lors d'un examen de performance?",
-        "3": "Qu'est-ce qu'un Product Manager fait?",
-        "placeholder": "Tapez une nouvelle question (par exemple, mon plan couvre-t-il les examens oculaires annuels?)"
+        "1": "Qu'est-ce que Biblyon?",
+        "2": "Que puis-je faire avec Biblyon?",
+        "3": "Mes données sont-elles en sécurité à Biblyon?",
+        "placeholder": "Tapez une nouvelle question"
     },
     "askTitle": "Demandez à vos données",
     "gpt4vExamples": {

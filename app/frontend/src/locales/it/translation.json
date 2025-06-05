@@ -1,6 +1,6 @@
 {
-    "pageTitle": "Azure OpenAI + AI Search",
-    "headerTitle": "Azure OpenAI + AI Search",
+    "pageTitle": "Biblyon",
+    "headerTitle": "Biblyon",
     "chat": "Chat",
     "qa": "Fai una domanda",
     "login": "Accedi",
@@ -37,16 +37,16 @@
     "chatEmptyStateTitle": "Chatta con i tuoi dati",
     "chatEmptyStateSubtitle": "Chiedi qualsiasi cosa o prova un esempio",
     "defaultExamples": {
-        "1": "Cosa è incluso nel mio piano Northwind Health Plus che non è nello standard?",
-        "2": "Cosa succede durante una valutazione delle prestazioni?",
-        "3": "Cosa fa un Product Manager?",
-        "placeholder": "Digita una nuova domanda (es. il mio piano copre gli esami oculistici annuali?)"
+        "1": "Che cosa è Biblyon?",
+        "2": "Cosa posso fare con Biblyon?",
+        "3": "I miei dati in Biblyon sono sicuri?",
+        "placeholder": "Digita una nuova domanda"
     },
     "askTitle": "Chiedi ai tuoi dati",
     "gpt4vExamples": {
         "1": "Confronta l'impatto dei tassi di interesse e del PIL sui mercati finanziari.",
-        "2": "Qual è la tendenza prevista per l'indice S&P 500 nei prossimi cinque anni? Confrontalo con le performance passate dell'S&P 500",
-        "3": "Puoi identificare una correlazione tra i prezzi del petrolio e le tendenze del mercato azionario?",
+        "2": "Qual è l'andamento previsto per l'indice S&P 500 nei prossimi cinque anni? Confrontatelo con la performance passata dello S&P 500",
+        "3": "Riesci a individuare una correlazione tra il prezzo del petrolio e l'andamento del mercato azionario?",
         "placeholder": "Esempio: Il mio piano copre gli esami oculistici annuali?"
     },
     "generatingAnswer": "Generazione della risposta",

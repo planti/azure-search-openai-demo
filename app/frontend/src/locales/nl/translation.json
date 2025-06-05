@@ -1,6 +1,6 @@
 {
-    "pageTitle": "Azure OpenAI + AI Search",
-    "headerTitle": "Azure OpenAI + AI Search",
+    "pageTitle": "Biblyon",
+    "headerTitle": "Biblyon",
     "chat": "Chat",
     "qa": "Stel een vraag",
     "login": "Inloggen",
@@ -37,10 +37,10 @@
     "chatEmptyStateTitle": "Chat met je gegevens",
     "chatEmptyStateSubtitle": "Stel een vraag of probeer een voorbeeld",
     "defaultExamples": {
-        "1": "Wat zit er in mijn Northwind Health Plus-pakket dat niet in het standaardpakket zit?",
-        "2": "Wat gebeurt er tijdens een functioneringsgesprek?",
-        "3": "Wat doet een Product Manager?",
-        "placeholder": "Typ een nieuwe vraag (bijv. dekt mijn pakket jaarlijkse oogonderzoeken?)"
+        "1": "Wat is Biblyon?",
+        "2": "Wat kan ik met Biblyon?",
+        "3": "Zijn mijn gegevens in Biblyon veilig?",
+        "placeholder": "Typ een nieuwe vraag"
     },
     "askTitle": "Stel je vraag aan de data",
     "gpt4vExamples": {
